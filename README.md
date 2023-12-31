@@ -9,7 +9,7 @@
 
 ## 🌱 Proyectos Destacados
 
-- [Tesoro Literario]: https://tesoro-literario.vercel.app/ - Descripción breve.
+- [Tesoro Literario]: https://tesoro-literario.vercel.app/ - Aplicación web de libros.
 
 ## 📫 Conéctate conmigo
 
