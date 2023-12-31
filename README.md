@@ -1,16 +1,23 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Lautaro
 
-<!--
-**lautarolombardi/lautarolombardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy fullstack developer con experiencia en React y .NET. Aquí encontrarás información sobre mis proyectos, habilidades y más.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguajes de programación: Javascript, C, C#
+- Tecnologías: React JS, Next JS, Tailwind CSS, Chakra UI, ASP.NET Core, SQL Server
+
+## 🌱 Proyectos Destacados
+
+- [Nombre del Proyecto](enlace_al_repositorio) - Descripción breve.
+
+## 📫 Conéctate conmigo
+
+- LinkedIn: [[Tu Perfil de LinkedIn](enlace_a_tu_perfil)](https://www.linkedin.com/in/lautarolombardi/)
+
+## 🤝 Contribuciones
+
+¡Me encanta colaborar en proyectos interesantes! Si tienes alguna idea o sugerencia, no dudes en contactarme.
+
+¡Gracias por visitar mi perfil! 😊
+
