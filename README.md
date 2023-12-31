@@ -5,7 +5,7 @@
 ## 🚀 Habilidades
 
 - Lenguajes de programación: Javascript, C, C#
-- Tecnologías: React JS, Next JS, Tailwind CSS, Chakra UI, ASP.NET Core, SQL Server
+- Tecnologías: React JS, Next JS, Tailwind CSS, Chakra UI, ASP.NET Core, EntityFramework y SQL Server
 
 ## 🌱 Proyectos Destacados
 
