@@ -9,11 +9,11 @@
 
 ## 🌱 Proyectos Destacados
 
-- [Nombre del Proyecto](enlace_al_repositorio) - Descripción breve.
+- [Tesoro Literario]: https://tesoro-literario.vercel.app/ - Descripción breve.
 
 ## 📫 Conéctate conmigo
 
-- LinkedIn: [[Tu Perfil de LinkedIn](enlace_a_tu_perfil)](https://www.linkedin.com/in/lautarolombardi/)
+- LinkedIn: https://www.linkedin.com/in/lautarolombardi/
 
 ## 🤝 Contribuciones
 
