@@ -5,7 +5,10 @@
 ## 🚀 Habilidades
 
 - Lenguajes de programación: Javascript, C, C#
-- Tecnologías: Typescript, React, TailwindCSS, Material UI, Node.js, NestJS, TypeORM, Sequealize, MySQL, PostgreSQL, Jest, Docker, Git, Jira
+- Frontend: Typescript, React, TailwindCSS, Material UI, ShadCN
+- Backend: Node.js, NestJS, TypeORM, Sequealize,
+- Bases de datos: MySQL, PostgreSQL,
+- Otras tecnologías: Jest, Docker, Git, Jira
 
 ## 📫 Conéctate conmigo
 
