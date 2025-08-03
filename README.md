@@ -1,15 +1,11 @@
 # ¡Hola! 👋 Soy Lautaro
 
-¡Bienvenido a mi perfil de GitHub! Soy fullstack developer con experiencia en React y .NET. Aquí encontrarás información sobre mis proyectos, habilidades y más.
+¡Bienvenido a mi perfil de GitHub! Soy backend developer con experiencia en Node.js y NestJS. Aquí encontrarás información sobre mis proyectos, habilidades y más.
 
 ## 🚀 Habilidades
 
 - Lenguajes de programación: Javascript, C, C#
-- Tecnologías: React JS, Next JS, Tailwind CSS, Chakra UI, ASP.NET Core, EntityFramework y SQL Server
-
-## 🌱 Proyectos Destacados
-
-- [Tesoro Literario]: https://tesoro-literario.vercel.app/ - Aplicación web de libros.
+- Tecnologías: Typescript, React, TailwindCSS, Material UI, Node.js, NestJS, TypeORM, Sequealize, MySQL, PostgreSQL, Jest, Docker, Git, Jira
 
 ## 📫 Conéctate conmigo
 
