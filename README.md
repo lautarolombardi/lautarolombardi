@@ -4,7 +4,6 @@
 
 ## 🚀 Habilidades
 
-- Lenguajes de programación: Javascript, C, C#
 - Frontend: Typescript, React, TailwindCSS, Material UI, ShadCN
 - Backend: Node.js, NestJS, TypeORM, Sequealize,
 - Bases de datos: MySQL, PostgreSQL,
